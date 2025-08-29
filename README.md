@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Singh</h1>
-<h3 align="center">A passionate frontend developer, currently working in Pune.</h3>
+<h3 align="center">A passionate Full Stack developer, currently working in Pune.</h3>
 
 - 🔭 I’m currently working on [My-Portfolio](https://prakharsingh-portfolio.netlify.app/)
 
